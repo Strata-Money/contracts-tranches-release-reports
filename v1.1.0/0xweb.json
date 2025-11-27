@@ -1,0 +1,97 @@
+{
+  "contracts": {
+    "eth": {
+      "0x30faeFa3c8022963df7538AbEB8aF8De1187F02a": {
+        "name": "USDeCDOv1",
+        "main": "./0xc/eth/USDeCDOv1/USDeCDOv1.ts",
+        "contractName": "StrataCDO"
+      },
+      "0xb3d4f2C2123f8C3CA85aE7A6D48aA2ef049c79bA": {
+        "name": "USDeCDOv2",
+        "main": "./0xc/eth/USDeCDOv2/USDeCDOv2.ts",
+        "contractName": "StrataCDO"
+      },
+      "0xE93b75B5f3da8c4f48DcD3cF84cd7FB001e938F8": {
+        "name": "ERC20Cooldownv1",
+        "main": "./0xc/eth/ERC20Cooldownv1/ERC20Cooldownv1.ts",
+        "contractName": "ERC20Cooldown"
+      },
+      "0x73dFDe427d6F9271a451DD01415c8f26E6292219": {
+        "name": "ERC20Cooldownv2",
+        "main": "./0xc/eth/ERC20Cooldownv2/ERC20Cooldownv2.ts",
+        "contractName": "ERC20Cooldown"
+      },
+      "0xC4eAa82924883A58E39B4Dfd6E60e81ee45d419C": {
+        "name": "UnstakeCooldownv1",
+        "main": "./0xc/eth/UnstakeCooldownv1/UnstakeCooldownv1.ts",
+        "contractName": "UnstakeCooldown"
+      },
+      "0xd2843c620D188796B031d805Fd869B597f6f3451": {
+        "name": "UnstakeCooldownv2",
+        "main": "./0xc/eth/UnstakeCooldownv2/UnstakeCooldownv2.ts",
+        "contractName": "UnstakeCooldown"
+      },
+      "0x0dA391431cC9760005c113c1A2dcb9D67878F213": {
+        "name": "SUSDeStrategyv1",
+        "main": "./0xc/eth/SUSDeStrategyv1/SUSDeStrategyv1.ts",
+        "contractName": "sUSDeStrategy"
+      },
+      "0x2B9796606c8480312a572742C00F606ef4ADB107": {
+        "name": "SUSDeStrategyv2",
+        "main": "./0xc/eth/SUSDeStrategyv2/SUSDeStrategyv2.ts",
+        "contractName": "sUSDeStrategy"
+      },
+      "0xC89951cC4C03927FF11a0E47806E2Ac3aa7734f3": {
+        "name": "USDeAccountingv1",
+        "main": "./0xc/eth/USDeAccountingv1/USDeAccountingv1.ts",
+        "contractName": "Accounting"
+      },
+      "0x4e9f8D06aaed67ac4AaA52D9175C842e0F8e8DA2": {
+        "name": "USDeAccountingv2",
+        "main": "./0xc/eth/USDeAccountingv2/USDeAccountingv2.ts",
+        "contractName": "Accounting"
+      },
+      "0xf158A4f4a01ac21Ddd2B09aBd2232649526Ef6A2": {
+        "name": "sUSDeAprFeedsv1",
+        "main": "./0xc/eth/sUSDeAprFeedsv1/sUSDeAprFeedsv1.ts",
+        "contractName": "AprPairFeed"
+      },
+      "0x74188a2a8A5177dD217a8149F1fB1370240FBadc": {
+        "name": "sUSDeAprFeedsv2",
+        "main": "./0xc/eth/sUSDeAprFeedsv2/sUSDeAprFeedsv2.ts",
+        "contractName": "AprPairFeed"
+      },
+      "0xdc3190a059A1DcF4C17EC1Cb9CC8c4EAcd0BC297": {
+        "name": "USDeJrtv1",
+        "main": "./0xc/eth/USDeJrtv1/USDeJrtv1.ts",
+        "contractName": "Tranche"
+      },
+      "0xe91869F96806b480dd61d57E17919068d35AC09C": {
+        "name": "USDeJrtv2",
+        "main": "./0xc/eth/USDeJrtv2/USDeJrtv2.ts",
+        "contractName": "Tranche"
+      },
+      "0x3d7d6fdf07EE548B939A80edbc9B2256d0cdc003": {
+        "name": "USDeSrtv1",
+        "main": "./0xc/eth/USDeSrtv1/USDeSrtv1.ts",
+        "contractName": "Tranche",
+        "implementation": "0x90f806df8a024c1474425f8c4fca4f3301dcbcdb"
+      },
+      "0xE894055CA1c73648927e225f3Ca38Ed48E30210b": {
+        "name": "USDeSrtv2",
+        "main": "./0xc/eth/USDeSrtv2/USDeSrtv2.ts",
+        "contractName": "Tranche"
+      },
+      "0x60f130c9d1533505c3931183693D3d91060B4F1F": {
+        "name": "TrancheDepositorV2v1",
+        "main": "./0xc/eth/TrancheDepositorV2v1/TrancheDepositorV2v1.ts",
+        "contractName": "TrancheDepositor"
+      },
+      "0x6e5a69BFDcE6b521DF6b2D0d3c49610C8f26B20b": {
+        "name": "TrancheDepositorV2v2",
+        "main": "./0xc/eth/TrancheDepositorV2v2/TrancheDepositorV2v2.ts",
+        "contractName": "TrancheDepositor"
+      }
+    }
+  }
+}

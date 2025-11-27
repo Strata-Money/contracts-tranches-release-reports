@@ -1,0 +1,3 @@
+[submodule "v1.1.0/contracts-tranches"]
+	path = v1.1.0/contracts-tranches
+	url = https://github.com/Strata-Money/contracts-tranches
