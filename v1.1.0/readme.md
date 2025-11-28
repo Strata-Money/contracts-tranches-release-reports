@@ -84,7 +84,7 @@ Parameters:
 - Old implementation: `0x30faeFa3c8022963df7538AbEB8aF8De1187F02a`
 - New implementation: `0xb3d4f2C2123f8C3CA85aE7A6D48aA2ef049c79bA`
 - Etherscan-Diff Old vs New: [./contracts/USDeCDO.patch](./contracts/USDeCDO.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeCDO-git.patch](./contracts/USDeCDO-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeCDO-git.patch](./contracts/USDeCDO-git.patch)
 
 ----
 
@@ -113,7 +113,7 @@ Parameters:
 - Old implementation: `0xE93b75B5f3da8c4f48DcD3cF84cd7FB001e938F8`
 - New implementation: `0x73dFDe427d6F9271a451DD01415c8f26E6292219`
 - Etherscan-Diff Old vs New: [./contracts/ERC20Cooldown.patch](./contracts/ERC20Cooldown.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/ERC20Cooldown-git.patch](./contracts/ERC20Cooldown-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/ERC20Cooldown-git.patch](./contracts/ERC20Cooldown-git.patch)
 
 ----
 
@@ -142,7 +142,7 @@ Parameters:
 - Old implementation: `0xC4eAa82924883A58E39B4Dfd6E60e81ee45d419C`
 - New implementation: `0xd2843c620D188796B031d805Fd869B597f6f3451`
 - Etherscan-Diff Old vs New: [./contracts/UnstakeCooldown.patch](./contracts/UnstakeCooldown.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/UnstakeCooldown-git.patch](./contracts/UnstakeCooldown-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/UnstakeCooldown-git.patch](./contracts/UnstakeCooldown-git.patch)
 
 ----
 
@@ -170,7 +170,7 @@ Parameters:
 - Old implementation: `0x0dA391431cC9760005c113c1A2dcb9D67878F213`
 - New implementation: `0x2B9796606c8480312a572742C00F606ef4ADB107`
 - Etherscan-Diff Old vs New: [./contracts/SUSDeStrategy.patch](./contracts/SUSDeStrategy.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/SUSDeStrategy-git.patch](./contracts/SUSDeStrategy-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/SUSDeStrategy-git.patch](./contracts/SUSDeStrategy-git.patch)
 
 
 ----
@@ -198,7 +198,7 @@ Parameters:
 - Old implementation: `0xf158A4f4a01ac21Ddd2B09aBd2232649526Ef6A2`
 - New implementation: `0x74188a2a8A5177dD217a8149F1fB1370240FBadc`
 - Etherscan-Diff Old vs New: [./contracts/sUSDeAprFeeds.patch](./contracts/sUSDeAprFeeds.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/sUSDeAprFeeds-git.patch](./contracts/sUSDeAprFeeds-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/sUSDeAprFeeds-git.patch](./contracts/sUSDeAprFeeds-git.patch)
 
 
 
@@ -227,7 +227,7 @@ Parameters:
 - Old implementation: `0xC89951cC4C03927FF11a0E47806E2Ac3aa7734f3`
 - New implementation: `0x4e9f8D06aaed67ac4AaA52D9175C842e0F8e8DA2`
 - Etherscan-Diff Old vs New: [./contracts/USDeAccounting.patch](./contracts/USDeAccounting.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeAccounting-git.patch](./contracts/USDeAccounting-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeAccounting-git.patch](./contracts/USDeAccounting-git.patch)
 
 
 
@@ -257,7 +257,7 @@ Parameters:
 - Old implementation: `0xf158A4f4a01ac21Ddd2B09aBd2232649526Ef6A2`
 - New implementation: `0x74188a2a8A5177dD217a8149F1fB1370240FBadc`
 - Etherscan-Diff Old vs New: [./contracts/sUSDeAprFeeds.patch](./contracts/sUSDeAprFeeds.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/sUSDeAprFeeds-git.patch](./contracts/sUSDeAprFeeds-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/sUSDeAprFeeds-git.patch](./contracts/sUSDeAprFeeds-git.patch)
 
 
 ----
@@ -286,7 +286,7 @@ Parameters:
 - Old implementation: `0xdc3190a059A1DcF4C17EC1Cb9CC8c4EAcd0BC297`
 - New implementation: `0xe91869F96806b480dd61d57E17919068d35AC09C`
 - Etherscan-Diff Old vs New: [./contracts/USDeJrt.patch](./contracts/USDeJrt.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeJrt-git.patch](./contracts/USDeJrt-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeJrt-git.patch](./contracts/USDeJrt-git.patch)
 
 
 
@@ -313,7 +313,7 @@ Parameters:
 - Old implementation: `0x90f806Df8a024C1474425f8C4FcA4F3301DcbCdB`
 - New implementation: `0xE894055CA1c73648927e225f3Ca38Ed48E30210b`
 - Etherscan-Diff Old vs New: [./contracts/USDeSrt.patch](./contracts/USDeSrt.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeSrt-git.patch](./contracts/USDeSrt-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeSrt-git.patch](./contracts/USDeSrt-git.patch)
 
 
 
@@ -340,7 +340,7 @@ Parameters:
 - Old implementation: `0x60f130c9d1533505c3931183693D3d91060B4F1F`
 - New implementation: `0x6e5a69BFDcE6b521DF6b2D0d3c49610C8f26B20b`
 - Etherscan-Diff Old vs New: [./contracts/TrancheDepositorV2.patch](./contracts/TrancheDepositorV2.patch)
-- Git-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/TrancheDepositorV2-git.patch](./contracts/TrancheDepositorV2-git.patch)
+- Etherscan-Diff New vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/TrancheDepositorV2-git.patch](./contracts/TrancheDepositorV2-git.patch)
 
 
 ----
@@ -349,6 +349,9 @@ Parameters:
 
 
 To: `0x908B3921aaE4fC17191D382BB61020f2Ee6C0e20` **USDeCDOProxy**
+
+> Set the address of the [TwoStepConfigManager](#two-step-configuration) - [0x0f93bAC77c3dDD1341d3Ecc388c5F8A180818994](https://etherscan.io/address/0x0f93bAC77c3dDD1341d3Ecc388c5F8A180818994#code) - on the StrataCDO for the fee configuration.
+
 
 Data:
 
@@ -367,6 +370,10 @@ Parameters:
 
 #### Transaction: #12
 
+> Grant the `PROPOSER_CONFIG_ROLE` to the Admin Multisig - [0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50](https://etherscan.io/address/0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50).
+The role is required for the TwoStepConfigManager contract to set the pending configuration.
+
+
 To: `0x1d19E18ECaC4ef332a0d5d6Aa3a0f0f772605f60` **AccessControlManager**
 
 Data:
@@ -378,13 +385,9 @@ Data:
 ```yml
 Function: grantRole
 Parameters:
-    role: '0xe1014dbbc68ef747dfc64110b29e13ebcc98e4146563b6a60d5595f292d8fa40',
-    account: '0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50'
+    role: 0xe1014dbbc68ef747dfc64110b29e13ebcc98e4146563b6a60d5595f292d8fa40
+    account: 0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50
 ```
-
-- Role: `PROPOSER_CONFIG_ROLE`
-
-
 
 ### Implementation comparison methodology
 
@@ -403,5 +406,28 @@ git diff --no-index ./0xc/eth/contractv1/contractv1/contracts/ ./0xc/eth/contrac
 git diff --no-index --diff-filter=DM ./0xc/eth/contractv2/contractv2/contracts/ ./contracts-tranches/contracts/ > contracts/contractv2-git.patch
 ```
 
+
+# ☀️ New contracts
+
+
+### Two Step Configuration
+
+> Two-step / time-delayed manager for configuration values on Strata Protocol. Currently supported configuration: Exit-Fee-Setter
+
+- Contract: [`0x0f93bAC77c3dDD1341d3Ecc388c5F8A180818994`](https://etherscan.io/address/0x0f93bAC77c3dDD1341d3Ecc388c5F8A180818994#code)
+
+- Implementation: [`0x0a0e72a4f25a915fd7bbc585bcf61896a2a846c8`](https://etherscan.io/address/0x0a0e72a4f25a915fd7bbc585bcf61896a2a846c8#code)
+
+- Source-code: [`contracts/tranches/TwoStepConfigManager.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/TwoStepConfigManager.sol)
+
+- New-deployment
+- Etherscan vs `8eec77791ff01d2735f2c62cfc1502daa2b7904f`: [./contracts/USDeConfigManagerv2-git.patch](./contracts/USDeConfigManagerv2-git.patch)
+
+
+----
+
+# Full deployments overview:
+
+- [deployments-eth.json](https://github.com/Strata-Money/contracts-tranches/blob/release-1.1.0/deployments/deployments-eth.json)
 
 ----

@@ -91,6 +91,11 @@
         "name": "TrancheDepositorV2v2",
         "main": "./0xc/eth/TrancheDepositorV2v2/TrancheDepositorV2v2.ts",
         "contractName": "TrancheDepositor"
+      },
+      "0x0a0E72a4f25a915fd7bBc585BcF61896A2A846c8": {
+        "name": "USDeConfigManagerv2",
+        "main": "./0xc/eth/USDeConfigManagerv2/USDeConfigManagerv2.ts",
+        "contractName": "TwoStepConfigManager"
       }
     }
   }
