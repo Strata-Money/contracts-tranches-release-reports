@@ -63,7 +63,9 @@ The transaction is the Timelock Batch Operation submitting the following transac
 #### Transaction: #1
 To:
 
-[`0xcAb791D0D44eBaC17378fF2AF6356c012F15c9e6`](https://etherscan.io/address/0xcAb791D0D44eBaC17378fF2AF6356c012F15c9e6) **USDeCDOProxyAdmin**
+[`0xcAb791D0D44eBaC17378fF2AF6356c012F15c9e6`](https://etherscan.io/address/0xcAb791D0D44eBaC17378fF2AF6356c012F15c9e6)
+ID: **USDeCDOProxyAdmin**
+Source: [`StrataCDO.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/StrataCDO.sol)
 
 Data:
 
@@ -91,7 +93,9 @@ Parameters:
 #### Transaction: #2
 To:
 
-[`0xeD6c7b379F73DF0618406d263b13b2386E398166`](https://etherscan.io/address/0xeD6c7b379F73DF0618406d263b13b2386E398166) **ERC20CooldownProxyAdmin**
+[`0xeD6c7b379F73DF0618406d263b13b2386E398166`](https://etherscan.io/address/0xeD6c7b379F73DF0618406d263b13b2386E398166)
+ID: **ERC20CooldownProxyAdmin**
+Source: [`ERC20Cooldown.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/base/cooldown/ERC20Cooldown.sol)
 
 Data:
 
@@ -120,7 +124,9 @@ Parameters:
 #### Transaction: #3
 To:
 
-0x4b47433703687Cc49ddc61b2D8Ae1AdFACd55Bcd **UnstakeCooldownProxyAdmin**
+[`0x4b47433703687Cc49ddc61b2D8Ae1AdFACd55Bcd`](https://etherscan.io/address/0x4b47433703687Cc49ddc61b2D8Ae1AdFACd55Bcd)
+ID: **UnstakeCooldownProxyAdmin**
+Source: [`UnstakeCooldown.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/base/cooldown/UnstakeCooldown.sol)
 
 Data:
 
@@ -150,7 +156,9 @@ Parameters:
 
 To:
 
-`0x32d0d70a8Da4c0C2f354a986fD3738AFe92542F7` **SUSDeStrategyProxyAdmin**
+[`0x32d0d70a8Da4c0C2f354a986fD3738AFe92542F7`](https://etherscan.io/address/0x32d0d70a8Da4c0C2f354a986fD3738AFe92542F7)
+ID: **SUSDeStrategyProxyAdmin**
+Source: [`sUSDeStrategy.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/strategies/ethena/sUSDeStrategy.sol)
 
 Data:
 
@@ -179,7 +187,9 @@ Parameters:
 
 To:
 
-`0xE60442F1A12Ec03e22dDd3Bc5FEA62B7bd89d6df` **sUSDeAprFeedsProxyAdmin**
+[`0xE60442F1A12Ec03e22dDd3Bc5FEA62B7bd89d6df`](https://etherscan.io/address/0xE60442F1A12Ec03e22dDd3Bc5FEA62B7bd89d6df)
+ID: **sUSDeAprFeedsProxyAdmin**
+Source: [`AprPairFeed.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/oracles/AprPairFeed.sol)
 
 
 Data:
@@ -208,7 +218,9 @@ Parameters:
 
 To:
 
-`0x25A733feBA393a48C07A76441777324B471d212E` **USDeAccountingProxyAdmin**
+[`0x25A733feBA393a48C07A76441777324B471d212E`](https://etherscan.io/address/0x25A733feBA393a48C07A76441777324B471d212E)
+ID: **USDeAccountingProxyAdmin**
+Source: [Accounting.sol](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/Accounting.sol)
 
 Data:
 
@@ -236,9 +248,14 @@ Parameters:
 
 #### Transaction: #7
 
+⚠️ Duplicate: See transaction #5 (due to batching, the deployment script generated it as an additional new transaction).
+✅ Even though it is a duplicate, it doesn't affect the complete timelock transaction - the action just repeats.
+
 To:
 
-`0xE60442F1A12Ec03e22dDd3Bc5FEA62B7bd89d6df` **sUSDeAprFeedsProxyAdmin**
+[`0xE60442F1A12Ec03e22dDd3Bc5FEA62B7bd89d6df`](https://etherscan.io/address/0xE60442F1A12Ec03e22dDd3Bc5FEA62B7bd89d6df)
+ID: **sUSDeAprFeedsProxyAdmin**
+Source: [`AprPairFeed.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/oracles/AprPairFeed.sol)
 
 
 Data:
@@ -266,7 +283,10 @@ Parameters:
 
 To:
 
-`0x89d2573471dc0bF81C7c553FFFC1e31cE9e75Bf1` **USDeJrtProxyAdmin**
+[`0x89d2573471dc0bF81C7c553FFFC1e31cE9e75Bf1`](https://etherscan.io/address/0x89d2573471dc0bF81C7c553FFFC1e31cE9e75Bf1)
+ID: **USDeJrtProxyAdmin**
+Source: [`Tranche.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/Tranche.sol)
+
 
 Data:
 
@@ -294,7 +314,12 @@ Parameters:
 
 #### Transaction: #9
 
-To: `0x30A17d6bcBDBF1579d6fBBA453aCf776D01fbb50` **USDeSrtProxyAdmin**
+To:
+
+[`0x30A17d6bcBDBF1579d6fBBA453aCf776D01fbb50`](https://etherscan.io/address/0x30A17d6bcBDBF1579d6fBBA453aCf776D01fbb50)
+ID: **USDeSrtProxyAdmin**
+Source: [`Tranche.sol`](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/Tranche.sol)
+
 
 Data:
 
@@ -321,7 +346,11 @@ Parameters:
 
 #### Transaction: #10
 
-To: `0xEBAe177c9DB77ACf748C047a860c93Fb41Bc9767` **TrancheDepositorV2ProxyAdmin**
+To:
+
+[`0xEBAe177c9DB77ACf748C047a860c93Fb41Bc9767`](https://etherscan.io/address/0xEBAe177c9DB77ACf748C047a860c93Fb41Bc9767)
+ID: **TrancheDepositorV2ProxyAdmin**
+Source: [TrancheDepositor.sol](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/TrancheDepositor.sol)
 
 Data:
 
@@ -348,7 +377,11 @@ Parameters:
 #### Transaction: #11
 
 
-To: `0x908B3921aaE4fC17191D382BB61020f2Ee6C0e20` **USDeCDOProxy**
+To:
+
+[`0x908B3921aaE4fC17191D382BB61020f2Ee6C0e20`](https://etherscan.io/address/0x908B3921aaE4fC17191D382BB61020f2Ee6C0e20)
+ID: **USDeCDOProxy**
+Source: [StrataCDO.sol](https://github.com/Strata-Money/contracts-tranches/blob/8eec77791ff01d2735f2c62cfc1502daa2b7904f/contracts/tranches/StrataCDO.sol)
 
 > Set the address of the [TwoStepConfigManager](#two-step-configuration) - [0x0f93bAC77c3dDD1341d3Ecc388c5F8A180818994](https://etherscan.io/address/0x0f93bAC77c3dDD1341d3Ecc388c5F8A180818994#code) - on the StrataCDO for the fee configuration.
 
