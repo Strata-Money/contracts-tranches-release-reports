@@ -50,8 +50,11 @@ This ensures transparency, safety, and predictable governance of critical econom
 #### Upgrade Transaction
 
 
-https://app.safe.global/transactions/tx?safe=eth:0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50&id=multisig_0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50_0xc58b2266a00939f9280089d53787bf3f07a5558be2dc82ef87866761a36b1083
+1. Safe Proposal: https://app.safe.global/transactions/tx?safe=eth:0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50&id=multisig_0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50_0xc58b2266a00939f9280089d53787bf3f07a5558be2dc82ef87866761a36b1083
 
+2. Timelock Schedule: https://etherscan.io/tx/0x926a688f612b92b2b7ebfd5cba6858bf6e2b4696ac4e2d75c929ae9415b13d29
+
+3. Timelock Execution: _pending_
 
 
 -----
