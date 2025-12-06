@@ -50,11 +50,11 @@ This ensures transparency, safety, and predictable governance of critical econom
 #### Upgrade Transaction
 
 
-1. Safe Proposal: https://app.safe.global/transactions/tx?safe=eth:0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50&id=multisig_0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50_0xc58b2266a00939f9280089d53787bf3f07a5558be2dc82ef87866761a36b1083
+1. 🔒 Safe Proposal: https://app.safe.global/transactions/tx?safe=eth:0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50&id=multisig_0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50_0xc58b2266a00939f9280089d53787bf3f07a5558be2dc82ef87866761a36b1083
 
-2. Timelock Schedule: https://etherscan.io/tx/0x926a688f612b92b2b7ebfd5cba6858bf6e2b4696ac4e2d75c929ae9415b13d29
+2. ⌛ Timelock Schedule: https://etherscan.io/tx/0x926a688f612b92b2b7ebfd5cba6858bf6e2b4696ac4e2d75c929ae9415b13d29
 
-3. Timelock Execution: _pending_
+3. ✅ Timelock Execution: https://etherscan.io/tx/0x073beaf28daf40cf6865209b88bc709342e92a7db4ef91a88e2f5f4780c68ada
 
 
 -----
@@ -467,3 +467,8 @@ git diff --no-index --diff-filter=DM ./0xc/eth/contractv2/contractv2/contracts/ 
 - [deployments-eth.json](https://github.com/Strata-Money/contracts-tranches/blob/release-1.1.0/deployments/deployments-eth.json)
 
 ----
+
+
+# v1.1.0 Configuration
+
+See the [configuration.md](./configuration.md)
