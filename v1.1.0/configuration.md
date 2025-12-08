@@ -65,6 +65,15 @@ Once the delay has passed, the scheduled exit fee configuration must be executed
 🔒 https://app.safe.global/transactions/tx?safe=eth:0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50&id=multisig_0xA27cA9292268ee0f0258B749f1D5740c9Bb68B50_0xbf4028db48532badaf26f366eac4b8f13dd544d7a6a7a30aa63c35ebff87a7f3
 
 
+#### Timelock Schedule
+
+⌛ https://etherscan.io/tx/0x78a3cb11e966eee50bc82d31d307a7a4a49d8cf4724fe52ff10ef65fc80ad559
+
+#### Timelock Execution
+
+_pending_
+
+
 The configuration consists of 4 transactions:
 
 1. Grant `UPDATER_STRAT_CONFIG_ROLE` to Strata's 48h Timelock, so it can apply the pending fees.
