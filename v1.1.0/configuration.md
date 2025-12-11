@@ -71,7 +71,7 @@ Once the delay has passed, the scheduled exit fee configuration must be executed
 
 #### Timelock Execution
 
-_pending_
+✅ https://etherscan.io/tx/0xb887bdbfaeaf4090622c3ea0b4cd9708bfda2357106102407e0e7b2902fe6643
 
 
 The configuration consists of 4 transactions:
